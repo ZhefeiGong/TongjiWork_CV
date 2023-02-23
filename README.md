@@ -18,4 +18,4 @@ You need to finish Image Classification in some public data sets.
 
 * workFinal
 
-It was a teamwork to finish a literature review. Maybe it will change with  the release of COVID-19.
+It was a teamwork to finish a literature review and re-produce the models in some classical papers in CV. Maybe it will change with  the release of COVID-19.
